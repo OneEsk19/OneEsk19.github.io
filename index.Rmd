@@ -21,9 +21,9 @@ There's not much stuff here, but like a true procrastinator I have a fair amount
 
 ## Blogs
 
-[Bioinformatics](/bioinformatics.hmtl)
+[Bioinformatics](https://oneesk19.github.io/pages/bioinformatics.hmtl)
 
-[Excel](/excel.html)
+[Excel](https://oneesk19.github.io/pages/excel.html)
 
 ## Random
 
