@@ -1,0 +1,32 @@
+---
+title: "OneEsk19's Front End"
+output: 
+      rmdformats::readthedown
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+##### (no, not that kind of front end!)
+
+## Who am I and what's this page for?
+
+One Esk 19 is a character from one of my favourite series of science-fiction books and I chose it as an internet handle for myself, so yeah, it's not my real name *shocker*. If youv'e ended up here because you also have this moniker then sorry but we will have to share, and by the way you have excellent taste in literature ;)
+
+Behind the screen name I'm someone who likes science, data, and coding. I have a background in biological sciences with a bioinformatics specialisation. I like playing around with any kind of data I can get my hands on and enjoy exploring many different tools and software for this end. 
+
+There's not much stuff here, but like a true procrastinator I have a fair amount of largely incomplete "content" to add when/if I ever complete it. For now, feel free to enjoy my mediocre content.
+
+
+## Blogs
+
+[Bioinformatics](bioinformatics.hmtl)
+
+[Excel](excel.html)
+
+## Random
+
+[App that calculates the human age of your dog](https://oneesk19.shinyapps.io/dgapp/)
+
+[My Github](https://github.com/OneEsk19)
